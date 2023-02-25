@@ -1,0 +1,45 @@
+.bannerimage
+{
+  width: 100%;
+  background-image: url(https://img.freepik.com/free-vector/frame-with-dogs-vector-white-background_53876-127700.jpg?w=1380&t=st=1675436429~exp=1675437029~hmac=5fdc46bf44391c35a57538f74870f5e72bc1fa8ae0b3bc1a2e73a2baadb97726);
+  height: 1080px;
+  background-color: purple;
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-size:cover;
+}
+
+
+.barstyle
+{
+  overflow: hidden;
+  background-color: pink;
+}
+
+.nav-item
+{
+  float: left;
+  color: #f2f2f2;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size
+
+}
+
+.nav-item:hover
+{
+  background-color: black;
+  color: white;
+}
+.active
+{
+  background-color: black;
+  color: white;
+}
+
+.about
+{
+  text-align: center;
+  font-size: large
+}
